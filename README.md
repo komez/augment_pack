@@ -1,6 +1,8 @@
 # augment_pack
-augment.py
+- augment.py
+
 augmentationのメソッドをまとめたpythonファイル
 
-main.py
+- main.py
+
 実行ファイル
